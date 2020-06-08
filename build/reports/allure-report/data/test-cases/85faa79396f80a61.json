@@ -1,0 +1,107 @@
+{
+  "uid" : "85faa79396f80a61",
+  "name" : "feature",
+  "fullName" : "feature 1: feature",
+  "historyId" : "f21198e8bdd737cb41a653c01566a817",
+  "time" : {
+    "start" : 1591594345622,
+    "stop" : 1591594345636,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  some url",
+      "time" : {
+        "start" : 1591594345623,
+        "stop" : 1591594345632,
+        "duration" : 9
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "When  click",
+      "time" : {
+        "start" : 1591594345633,
+        "stop" : 1591594345633,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then  then redirect",
+      "time" : {
+        "start" : 1591594345634,
+        "stop" : 1591594345634,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "feature 1"
+  }, {
+    "name" : "story",
+    "value" : "feature"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-BUCE9PJ7"
+  }, {
+    "name" : "package",
+    "value" : "feature 1"
+  }, {
+    "name" : "suite",
+    "value" : "feature 1"
+  }, {
+    "name" : "testClass",
+    "value" : "feature"
+  }, {
+    "name" : "thread",
+    "value" : "10696@LAPTOP-BUCE9PJ7.Test worker(13)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "85faa79396f80a61.json",
+  "parameterValues" : [ ]
+}

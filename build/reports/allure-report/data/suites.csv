@@ -1,0 +1,6 @@
+"Status","Name","Duration in ms","Description"
+"passed","feature 1: feature","14",""
+"passed","cucumber.api.testng.AbstractTestNGCucumberTests.runScenario","10552",""
+"passed","tests.TestBase.test","8173",""
+"passed","tests.TestBase.testing","1776",""
+"passed","tests.TestBase.test","8816",""

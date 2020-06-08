@@ -1,0 +1,77 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "steps.CucumberRunner",
+    "children" : [ {
+      "name" : "runScenario",
+      "uid" : "5a852a3356b34c28",
+      "parentUid" : "dc2263000ef93cea84afca692f64b39a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591594334854,
+        "stop" : 1591594345406,
+        "duration" : 10552
+      },
+      "flaky" : false,
+      "parameters" : [ "\"feature\"", "\"feature 1\"" ]
+    } ],
+    "uid" : "steps.CucumberRunner"
+  }, {
+    "name" : "feature 1",
+    "children" : [ {
+      "name" : "feature",
+      "uid" : "85faa79396f80a61",
+      "parentUid" : "fef4b583120f576965d68215e80643d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591594345622,
+        "stop" : 1591594345636,
+        "duration" : 14
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "fef4b583120f576965d68215e80643d2"
+  }, {
+    "name" : "tests.TestBase",
+    "children" : [ {
+      "name" : "test",
+      "uid" : "6c83ef1b6d7e978e",
+      "parentUid" : "7d641510f0aace089705538c595818d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591594345699,
+        "stop" : 1591594354515,
+        "duration" : 8816
+      },
+      "flaky" : false,
+      "parameters" : [ "Text2" ]
+    }, {
+      "name" : "test",
+      "uid" : "c9f3712704713e36",
+      "parentUid" : "7d641510f0aace089705538c595818d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591594345700,
+        "stop" : 1591594353873,
+        "duration" : 8173
+      },
+      "flaky" : false,
+      "parameters" : [ "Text1" ]
+    }, {
+      "name" : "testing",
+      "uid" : "e8ee6c4cc7e1c7",
+      "parentUid" : "7d641510f0aace089705538c595818d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591594354524,
+        "stop" : 1591594356300,
+        "duration" : 1776
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "tests.TestBase"
+  } ]
+}

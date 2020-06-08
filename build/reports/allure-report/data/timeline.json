@@ -1,0 +1,81 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-BUCE9PJ7",
+    "children" : [ {
+      "name" : "10696@LAPTOP-BUCE9PJ7.Test worker(13)",
+      "children" : [ {
+        "name" : "feature",
+        "uid" : "85faa79396f80a61",
+        "parentUid" : "275ccab4cd9a5b8aea6d9ace4da5275f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591594345622,
+          "stop" : 1591594345636,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Runs Cucumber Scenarios",
+        "uid" : "5a852a3356b34c28",
+        "parentUid" : "275ccab4cd9a5b8aea6d9ace4da5275f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591594334854,
+          "stop" : 1591594345406,
+          "duration" : 10552
+        },
+        "flaky" : false,
+        "parameters" : [ "\"feature\"", "\"feature 1\"" ]
+      }, {
+        "name" : "testing",
+        "uid" : "e8ee6c4cc7e1c7",
+        "parentUid" : "275ccab4cd9a5b8aea6d9ace4da5275f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591594354524,
+          "stop" : 1591594356300,
+          "duration" : 1776
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "275ccab4cd9a5b8aea6d9ace4da5275f"
+    }, {
+      "name" : "10696@LAPTOP-BUCE9PJ7.TestNG-PoolService-0(28)",
+      "children" : [ {
+        "name" : "test",
+        "uid" : "c9f3712704713e36",
+        "parentUid" : "cca29924c5ff8a74e46ed66b1054cd43",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591594345700,
+          "stop" : 1591594353873,
+          "duration" : 8173
+        },
+        "flaky" : false,
+        "parameters" : [ "Text1" ]
+      } ],
+      "uid" : "cca29924c5ff8a74e46ed66b1054cd43"
+    }, {
+      "name" : "10696@LAPTOP-BUCE9PJ7.TestNG-PoolService-1(29)",
+      "children" : [ {
+        "name" : "test",
+        "uid" : "6c83ef1b6d7e978e",
+        "parentUid" : "fc47768b7320c3b5e9cb56b903ba8d8c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591594345699,
+          "stop" : 1591594354515,
+          "duration" : 8816
+        },
+        "flaky" : false,
+        "parameters" : [ "Text2" ]
+      } ],
+      "uid" : "fc47768b7320c3b5e9cb56b903ba8d8c"
+    } ],
+    "uid" : "3860680b8cadc360af643949280a01f3"
+  } ]
+}

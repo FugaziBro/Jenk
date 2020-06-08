@@ -1,0 +1,62 @@
+{
+  "uid" : "ae724a0324010090",
+  "name" : "test",
+  "fullName" : "tests.TestBase.test",
+  "historyId" : "c0c3b8ef9e5911b738b62e5ff0235bf",
+  "time" : {
+    "start" : 1591594164585,
+    "stop" : 1591594173951,
+    "duration" : 9366
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.TestBase"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.TestBase"
+  }, {
+    "name" : "testMethod",
+    "value" : "test"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Gradle suite"
+  }, {
+    "name" : "suite",
+    "value" : "Gradle test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.TestBase"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-BUCE9PJ7"
+  }, {
+    "name" : "thread",
+    "value" : "10080@LAPTOP-BUCE9PJ7.TestNG-PoolService-0(16)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "Text1"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ae724a0324010090.json",
+  "parameterValues" : [ "Text1" ]
+}

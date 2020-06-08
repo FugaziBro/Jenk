@@ -1,0 +1,85 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Gradle suite",
+    "children" : [ {
+      "name" : "Gradle test",
+      "children" : [ {
+        "name" : "steps.CucumberRunner",
+        "children" : [ {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "5a852a3356b34c28",
+          "parentUid" : "f7ccdde6a006fee45baf91c442c17bae",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591594334854,
+            "stop" : 1591594345406,
+            "duration" : 10552
+          },
+          "flaky" : false,
+          "parameters" : [ "\"feature\"", "\"feature 1\"" ]
+        } ],
+        "uid" : "f7ccdde6a006fee45baf91c442c17bae"
+      }, {
+        "name" : "tests.TestBase",
+        "children" : [ {
+          "name" : "test",
+          "uid" : "6c83ef1b6d7e978e",
+          "parentUid" : "94625ed64150ccb3d44551942f9b409f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591594345699,
+            "stop" : 1591594354515,
+            "duration" : 8816
+          },
+          "flaky" : false,
+          "parameters" : [ "Text2" ]
+        }, {
+          "name" : "test",
+          "uid" : "c9f3712704713e36",
+          "parentUid" : "94625ed64150ccb3d44551942f9b409f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591594345700,
+            "stop" : 1591594353873,
+            "duration" : 8173
+          },
+          "flaky" : false,
+          "parameters" : [ "Text1" ]
+        }, {
+          "name" : "testing",
+          "uid" : "e8ee6c4cc7e1c7",
+          "parentUid" : "94625ed64150ccb3d44551942f9b409f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591594354524,
+            "stop" : 1591594356300,
+            "duration" : 1776
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "94625ed64150ccb3d44551942f9b409f"
+      } ],
+      "uid" : "6edf7b6d6ec097775c478f55491c2a49"
+    } ],
+    "uid" : "350742de9190af4e6a560acc7ec0396c"
+  }, {
+    "name" : "feature 1",
+    "children" : [ {
+      "name" : "feature",
+      "uid" : "85faa79396f80a61",
+      "parentUid" : "5e92eb6293750856378b0460e3667770",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591594345622,
+        "stop" : 1591594345636,
+        "duration" : 14
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "5e92eb6293750856378b0460e3667770"
+  } ]
+}
